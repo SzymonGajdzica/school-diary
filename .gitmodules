@@ -1,0 +1,3 @@
+[submodule "school-diary-api"]
+	path = school-diary-api
+	url = https://github.com/SzymonGajdzica/school-diary-api.git
